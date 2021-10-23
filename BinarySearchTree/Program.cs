@@ -26,6 +26,7 @@ namespace BinarySearchTree
             binary.Insert(63);
             binary.Insert(67);
             binary.View();
+            Console.WriteLine("Element " + binary.Search(63) + " is available in binary search tree");
         }
     }
 }

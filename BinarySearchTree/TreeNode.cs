@@ -54,5 +54,28 @@ namespace BinarySearchTree
                 rightNode.OrderTraversal();
             }
         }
+        public int Search(int data)
+        {
+            TreeNode currentNode = this;
+            while (currentNode != null)
+            {
+                if (currentNode.data == data)
+                {
+                    return currentNode.data;
+                }
+                else
+                {
+                    if (data > currentNode.data)
+                    {
+                        currentNode = currentNode.rightNode;
+                    }
+                    else
+                    {
+                        currentNode = currentNode.leftNode;
+                    }
+                }
+            }
+            return 0;
+        }
     }
 }
