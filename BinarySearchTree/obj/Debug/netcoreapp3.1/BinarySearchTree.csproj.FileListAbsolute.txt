@@ -11,3 +11,4 @@ E:\NILESH\C#\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySea
 E:\NILESH\C#\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.dll
 E:\NILESH\C#\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.pdb
 E:\NILESH\C#\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.genruntimeconfig.cache
+E:\NILESH\C#\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csproj.AssemblyReference.cache
